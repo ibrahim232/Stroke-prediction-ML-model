@@ -25,6 +25,7 @@ According to the World Health Organization (WHO), stroke is the 2nd leading caus
 
 
 <br>
+Our Approach 
 
 1. [Importing Libraries](#importing-libraries)
 2. [Data Overview](#data-overview)
