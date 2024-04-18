@@ -24,6 +24,8 @@ According to the World Health Organization (WHO), stroke is the 2nd leading caus
 12. **stroke**: Indicates if the patient had a stroke, where 1 means the patient had a stroke, and 0 means the patient did not have a stroke.
 
 
+<br>
+
 1. [Importing Libraries](#importing-libraries)
 2. [Data Overview](#data-overview)
 3. [Data Cleaning & Preprocessing](#data-cleaning-and-preprocessing)
@@ -37,3 +39,5 @@ According to the World Health Organization (WHO), stroke is the 2nd leading caus
 8. [Model Evaluation](#model-evaluation)
 9. [Pipeline](#pipeline)
 10. [Deployment](#deployment)
+    
+<br/>
